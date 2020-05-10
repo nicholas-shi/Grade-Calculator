@@ -15,6 +15,5 @@
 ## Possible Solutions:
 * Provide initial information file to analyze, after done analyzing and creating data, move to an old folder
 
-## Programming Language to Use (currently undecided)
-* Python rapid development (should have a GUI component involved but unsure how to do in python)
-* Java better framework (use javafx, then build the jar file to work properly, personally more familiar with it)
+## Programming Language to Use
+* Java with JavaFX as the GUI
