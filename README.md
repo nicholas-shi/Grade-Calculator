@@ -8,7 +8,7 @@
 * Gradient that lets you anticipate what grade you need to accomplish a goal (some sort of slider system)
 
 ## Issues I Expect to Come:
-* What system to select classes?
+* How to select between classes (by name, number, ...)
 * Tedious initial setup
 
 
